@@ -39,6 +39,7 @@
 		"tailwindcss/no-custom-classname": "warn",
 		"tailwindcss/no-contradicting-classname": "error",
 		"react/no-array-index-key": "off",
-		"react/jsx-props-no-spreading": "off"
+		"react/jsx-props-no-spreading": "off",
+		"import/extensions": "off"
 	}
 }

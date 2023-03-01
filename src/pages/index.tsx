@@ -1,5 +1,11 @@
+import Menu from "../components/Menu";
+
 const Home = () => {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return (
+    <div className="container mx-auto bg-sky-200">
+      <Menu />
+    </div>
+  );
 };
 
 export default Home;
